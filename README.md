@@ -1,36 +1,21 @@
 # cc
 
-FIXME: description
+clojure String utils
 
 ## Installation
 
-Download from http://example.com/FIXME.
+use leiningen `[cc "0.1.0"]`
 
-## Usage
-
-FIXME: explanation
-
-    $ java -jar cc-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+## Functions
+	fns:
+	string-length
+	sub-string
+	string-split
+	str-contains?
+	str-reverse
+	str-replace
+	str-uuid
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+The MIT License (MIT)
